@@ -1,11 +1,5 @@
 # Chester
 
-A syntax highlighting theme for the [Atom text editor](https://atom.io/) whose colours are totally
-not ripped off from Lonely Planet's [Rizzo](https://github.com/lonelyplanet/rizzo) styles and what
-do you even mean oh no please don't sue me.
+A continued version of [chester-atom-syntax](https://atom.io/packages/chester-atom-syntax), with colors based on Lonely Planet's [Rizzo](https://github.com/lonelyplanet/rizzo) styles.
 
-There is also a corresponding colour scheme for the iTerm2 terminal emulator: [csutter/chester-iterm2-colors](https://github.com/csutter/chester-iterm2-colors).
-
-### Screenshot
-
-![Screenshot](https://raw.githubusercontent.com/csutter/chester-atom-syntax/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/SpectralKH/chester-syntax/master/screenshot.png)
