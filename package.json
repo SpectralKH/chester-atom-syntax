@@ -1,7 +1,7 @@
 {
   "name": "chester-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Continued version of chester-atom-syntax, without deprecasion errors",
   "repository": "https://github.com/SpectralKH/chester-syntax",
   "license": "MIT",
