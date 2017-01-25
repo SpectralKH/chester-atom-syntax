@@ -138,7 +138,6 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 .syntax--string {
   color: @green;
 
-
   &.syntax--regexp {
     color: @cyan;
 
@@ -150,6 +149,10 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   &.syntax--other.syntax--link {
     color: @red;
   }
+}
+
+.syntax--string .syntax--embedded.syntax--php {
+    color: @very-light-gray;
 }
 
 .syntax--punctuation {
