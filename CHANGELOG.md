@@ -1,3 +1,6 @@
+## 0.4
+* Added markdown support
+
 ## 0.3
 * PHP syntax highlighting not affected by surrounding strings
 * 0.2 was supposed to be a patch, but I'm dumb
