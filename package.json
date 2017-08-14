@@ -1,7 +1,7 @@
 {
   "name": "chester-kh-syntax",
   "theme": "syntax",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Continued version of chester-atom-syntax, without deprecation errors",
   "keywords": [
     "chester",
