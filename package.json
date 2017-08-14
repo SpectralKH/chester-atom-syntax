@@ -2,7 +2,7 @@
   "name": "chester-kh-syntax",
   "theme": "syntax",
   "version": "0.4.1",
-  "description": "Continued version of chester-atom-syntax, without deprecasion errors",
+  "description": "Continued version of chester-atom-syntax, without deprecation errors",
   "keywords": [
     "chester",
     "syntax",
